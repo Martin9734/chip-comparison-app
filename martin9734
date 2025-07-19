@@ -1,0 +1,8 @@
+D:
+cd chip-comparison-app
+git init
+git add .
+git commit -m "Initial commit: Chip comparison app"
+git branch -M main
+git remote add origin https://github.com/Martin973421/chip-comparison-app.git
+git push -u origin main
